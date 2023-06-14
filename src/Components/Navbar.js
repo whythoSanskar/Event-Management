@@ -71,7 +71,7 @@ export default function Navbar() {
                   className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
                 >
                   <span className="sr-only">Go to application</span>
-                  <a className="bg-yellow-700 h-6 w-6 rounded-md px-3 py-2 text-sm font-medium  hover:bg-yellow-600" aria-hidden="false">Apply</a>
+                  <a className="bg-yellow-700 h-6 w-6 rounded-md px-3 py-2 text-sm font-medium  hover:bg-yellow-600" href='/form'>Apply</a>
                 </button>
 
                 
